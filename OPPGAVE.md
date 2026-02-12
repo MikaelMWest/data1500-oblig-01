@@ -8,7 +8,7 @@
 
 **Github-brukernavn til TA**
 
-**VIKTIG!** Inviter alle til deres private repository. Se [GUIDE-PRIVAT-REPO.md](GUIDE-PRIVAT-REPO.md) for hvordan lage en privat repository): 
+**VIKTIG!** Inviter alle til deres private repository. Se [GUIDE-PRIVAT-REPO.md](GUIDE-PRIVAT-REPO.md) for hvordan lage en privat repository: 
 
 ```
 Noid55
