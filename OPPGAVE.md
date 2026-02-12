@@ -6,9 +6,9 @@
 
 **Vurdering:** Bestått / Ikke bestått
 
-** Github-brukernavn til TA**
+**Github-brukernavn til TA**
 ```
-- VIKTIG! 
+@@ VIKTIG! @@
 ```
 Inviter alle til deres private repository. Se [GUIDE-PRIVAT-REPO.md](GUIDE-PRIVAT-REPO.md) for hvordan lage en privat repository): 
 
