@@ -14,11 +14,28 @@
 
 **Identifiserte entiteter:**
 
-[Skriv ditt svar her - list opp alle entitetene du har identifisert]
+Sykkelstasjoner
+Sykler
+Kunder
 
 **Attributter for hver entitet:**
 
-[Skriv ditt svar her - list opp attributtene for hver entitet]
+Sykkelstasjoner:
+  - lås_id
+
+sykler:
+  - sykkel_id
+
+Kunder:
+  - leiebeløp
+  - kunde_id
+  - fornavn
+  - etternavn
+  - epost
+  - mobilnummer
+  - opprettet
+
+[Begrunnelse her]
 
 ---
 
@@ -26,23 +43,34 @@
 
 **Valgte datatyper og begrunnelser:**
 
-[Skriv ditt svar her - forklar hvilke datatyper du har valgt for hver attributt og hvorfor]
+lås_id - INT          : [Begrunnnelse her]
+
+sykkel_id - INT       : [Begrunnnelse her]
+
+kunde_id - INT        : [Begrunnnelse her]
+leiebeløp - DOUBLE    : [Begrunnnelse her]
+fornavn - VARCHAR     : [Begrunnnelse her]
+etternavn - VARCHAR   : [Begrunnnelse her]
+epost - VARCHAR       : [Begrunnnelse her]
+opprettet - TIMESTAMP : [Begrunnnelse her]
+
 
 **`CHECK`-constraints:**
 
-[Skriv ditt svar her - list opp alle CHECK-constraints du har lagt til og forklar hvorfor de er nødvendige]
+CONSTRAINT [navn] CHECK ();
 
 **ER-diagram:**
 
-[Legg inn mermaid-kode eller eventuelt en bildefil fra `mermaid.live` her]
-
+Klarer ikke å få mermaid til å fungere
 ---
 
 ### Oppgave 1.3: Primærnøkler
 
 **Valgte primærnøkler og begrunnelser:**
 
-[Skriv ditt svar her - forklar hvilke primærnøkler du har valgt for hver entitet og hvorfor]
+kunde_id PK
+
+[begrunnelse her]
 
 **Naturlige vs. surrogatnøkler:**
 
