@@ -21,19 +21,19 @@ Kunder
 **Attributter for hver entitet:**
 
 Sykkelstasjoner:
-  - lås_id
+- lås_id
 
 sykler:
-  - sykkel_id
+- sykkel_id
 
 Kunder:
-  - leiebeløp
-  - kunde_id
-  - fornavn
-  - etternavn
-  - epost
-  - mobilnummer
-  - opprettet
+- leiebeløp
+- kunde_id
+- fornavn
+- etternavn
+- epost
+- mobilnummer
+- opprettet
 
 [Begrunnelse her]
 
@@ -45,7 +45,7 @@ Kunder:
 
 lås_id - INT          : [Begrunnnelse her]
 
-sykkel_id - INT       : [Begrunnnelse her] 
+sykkel_id - INT       : [Begrunnnelse her]
 
 kunde_id - INT        : [Begrunnnelse her]
 leiebeløp - DOUBLE    : [Begrunnnelse her]
