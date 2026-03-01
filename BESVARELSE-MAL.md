@@ -45,7 +45,7 @@ Kunder:
 
 lås_id - INT          : [Begrunnnelse her]
 
-sykkel_id - INT       : [Begrunnnelse her]
+sykkel_id - INT       : [Begrunnnelse her] 
 
 kunde_id - INT        : [Begrunnnelse her]
 leiebeløp - DOUBLE    : [Begrunnnelse her]
